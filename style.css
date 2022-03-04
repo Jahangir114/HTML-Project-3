@@ -1,0 +1,137 @@
+/*div{
+	height: 100px;
+	width: 100px;
+	background-color: teal;
+	padding: 200px;
+	padding: 20px 160px;
+	padding: 0px 100px 100px ;
+	padding: 0 0 0 0px;
+	padding-top: 0px;
+	padding-left: 0px;
+	margin: 0px;
+	margin: 20px 0px;
+	margin-top: 300px;
+}*/
+
+.rasel{
+	height: 100px;
+	width: 100px;
+	background-color: teal;
+	margin-right: 20px;
+	float: left;
+}
+
+.azad{
+	height: 100px;
+	width: 100px;
+	background-color: magenta;
+	margin-bottom: 20px;
+	float: left;
+}
+
+
+
+.afarat{
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+	float: left;
+}
+
+
+
+.mijanur{
+	height: 100px;
+	width: 100px;
+	background-color: green;
+	float: left;
+}
+
+
+
+.uylab{
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	float: left;
+}
+
+
+
+.anayet{
+	height: 100px;
+	width: 100px;
+	background-color: orange;
+	float: left;
+}
+
+
+.header{
+	height: 60px;
+	width: 100%;
+	background-color: gray;
+	margin-bottom: 20px;
+	text-align: center;;
+	line-height: 60px;
+	font-size: 27px;
+	color: white;
+}
+
+.menu{
+	height: 50px;
+	width: 100%;
+	background-color: gray;
+	margin-bottom: 20px;
+	text-align: center;;
+	line-height: 50px;
+	font-size: 27px;
+	color: white;
+}
+
+.content1{
+	height: 400px;
+	width: 20%;
+	background-color: gray;
+	float: left;
+	text-align: center;;
+	line-height: 400px;
+	font-size: 27px;
+	color: white;
+}
+
+.content2{
+	height: 400px;
+	width: 58%;
+	background-color: gray;
+	float: left;
+	margin: 0 1%;
+		text-align: center;;
+	line-height: 400px;
+	font-size: 27px;
+	color: white;
+}
+
+.content3{
+	height: 400px;
+	width: 20%;
+	background-color: gray;
+	float: left;
+		text-align: center;;
+	line-height: 400px;
+	font-size: 27px;
+	color: white;
+}
+
+.footer{
+	height: 60px;
+	width: 100%;
+	background-color: gray;
+	float: left;
+	margin-top: 20px;
+		text-align: center;;
+	line-height: 60px;
+	font-size: 27px;
+	color: white;
+}
+
+
